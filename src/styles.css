@@ -1,0 +1,16 @@
+*{
+  color: white;
+  padding:0;
+  margin:0;
+  background-color: black;
+}
+td,th{
+  padding: 20px; 
+}
+button{
+  padding:10px 15px
+}
+.form{
+  position: fixed;
+  right: 20%;
+}
